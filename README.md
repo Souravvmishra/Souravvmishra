@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Souravvmishra
-- 👀 I’m interested in Websites & WebApp Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Web related projects
-- 📫 How to reach me : You can conatact me on instagram @souravvmishra_
+<h1 align="center">Hi 👋, I'm Sourav Mishra</h1>
+<h3 align="center">A Curious Web & WebApp Developer From Jammu Who Love To Create, Currently Pursuing His BCA From GGM Science College, Jammu. Exploring All The Different Possibilities</h3>
 
-<!---
-Souravvmishra/Souravvmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **E-commerce Site In Django**
+
+- 🌱 I’m currently learning **Django**
+
+- 🤝 I’m looking for help with **Freelancing**
+
+- 💬 Ask me about **Python, C++, Tailwind**
+
+- 📫 How to reach me **souravvmishra@gmail.com**
+
+- ⚡ Fun fact **I Am In Love**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
