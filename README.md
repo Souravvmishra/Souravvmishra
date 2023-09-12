@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sourav Mishra</h1>
+<h1 align="center"> <img src="https://media.tenor.com/Bve2zxb8_4YAAAAj/waving-ahhh.gif" alt="Waving Hand" height="100" />Hi 👋, I'm Sourav Mishra </h1>
 
-<p align="center">
-  <img src="https://tenor.com/view/bye-sticker-goodbye-sticker-waving-hand-hand-wave-cat-sticker-gif-26479188" alt="Waving Hand" height="100" />
-</p>
 
 <h3 align="center">A Curious Web & WebApp Developer From Jammu Who Loves To Create</h3>
 <h4 align="center">Currently Pursuing My BCA From GGM Science College, Jammu, Exploring All The Different Possibilities</h4>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=souravvmishra&label=Profile%20views&color=0e75b6&style=flat" alt="souravvmishra" />
